@@ -1,0 +1,264 @@
+-- Merging decision tree log ---
+manifest
+ADDED from H:\flutterProject\flutteroschina\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from H:\flutterProject\flutteroschina\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from H:\flutterProject\flutteroschina\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from H:\flutterProject\flutteroschina\android\app\src\main\AndroidManifest.xml:1:1-33:12
+MERGED from H:\flutterProject\flutteroschina\android\app\src\main\AndroidManifest.xml:1:1-33:12
+MERGED from [:vibration] H:\flutterProject\flutteroschina\build\vibration\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:shared_preferences] H:\flutterProject\flutteroschina\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:barcode_scan] H:\flutterProject\flutteroschina\build\barcode_scan\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [:image_picker] H:\flutterProject\flutteroschina\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-22:12
+MERGED from [:flutter_webview_plugin] H:\flutterProject\flutteroschina\build\flutter_webview_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-21:12
+MERGED from [:sensors] H:\flutterProject\flutteroschina\build\sensors\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\324b3280be44dee6320283f1c17a2ae6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\2b2c119d23f9e75766b735f732e7e639\AndroidManifest.xml:17:1-22:12
+MERGED from [me.dm7.barcodescanner:zxing:1.9.13] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\zxing-1.9.13.aar\b832746810db923deec9f774e0b1e92d\AndroidManifest.xml:2:1-13:12
+MERGED from [me.dm7.barcodescanner:core:1.9.13] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jetified-core-1.9.13.aar\454b79eeae70d2c3fc83a9b8cfff07c0\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\83b0e37d469648ef4d6512122c63ad21\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\b80f5636f7192e2c5f295906a6f62119\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\f31d1ac3d6fc7ac42070d113e9755543\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\88c83f36222476a36aeb4a621f2a2ea7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\96138f913c6dd03a2d44579751f6d7fa\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\b96ae4f629ec5f6a91c6dedbdc001f7d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\6a1ef18d595f104c0a9f62c2715eb297\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\505264ed719583fe1382c1e63ac6d334\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\fbbd60f77058c525d3eb26800eb0c3a6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\d7c5701c7e4d42f6d1925c694aa72abf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\900c27e858ca0fe1f2c5c202979c078b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\084d760dff69f55aafa850bd1abc0f38\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\423475fc60227a7c5a76f512dcf54402\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\e1a70e58a807c7cc69c0803a3527bc59\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\cc7f25fbb41c589fcf877e63e1d5a85f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\67f3580f8793955a82783500ac1acc84\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\5d4299662e2f19c996a1513a344eea8a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\ee889287076465123defcc2f9c355f53\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\f5988b22ed7e6aaaad800bd359729a1c\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\2c315b31dde9d68d4545825efc77d1bb\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\dc4a6e8ec3aa2f08cffbd96842f204b9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\b4b5db7a88745e46a5b999d4c7c012c8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\c29c89e45ef6e7a9e991a3c3776ca845\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\1481c5268e404b41c7347422e943c4f7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\16f7cd7b5720521e422fcaaf342dfc16\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\6e2551170cb3c8feb7471f75ae72eaba\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\c773256db9874443cda5b8e379dcb4aa\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\c7864afb71e2570b67cdff5eb8c2e6f1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\7d43cf331a95e83fd40b6d28c6f069ae\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\9ffbbec13f8db6f5b2a3848c48fe1762\AndroidManifest.xml:17:1-22:12
+INJECTED from H:\flutterProject\flutteroschina\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from H:\flutterProject\flutteroschina\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from H:\flutterProject\flutteroschina\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from H:\flutterProject\flutteroschina\android\app\src\main\AndroidManifest.xml:2:5-40
+		INJECTED from H:\flutterProject\flutteroschina\android\app\src\main\AndroidManifest.xml
+		INJECTED from H:\flutterProject\flutteroschina\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from H:\flutterProject\flutteroschina\android\app\src\main\AndroidManifest.xml
+		ADDED from H:\flutterProject\flutteroschina\android\app\src\main\AndroidManifest.xml:1:1-33:12
+		INJECTED from H:\flutterProject\flutteroschina\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from H:\flutterProject\flutteroschina\android\app\src\main\AndroidManifest.xml
+		ADDED from H:\flutterProject\flutteroschina\android\app\src\main\AndroidManifest.xml:1:1-33:12
+		INJECTED from H:\flutterProject\flutteroschina\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from H:\flutterProject\flutteroschina\android\app\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from H:\flutterProject\flutteroschina\android\app\src\main\AndroidManifest.xml:9:5-32:19
+MERGED from [:barcode_scan] H:\flutterProject\flutteroschina\build\barcode_scan\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-15:19
+MERGED from [:barcode_scan] H:\flutterProject\flutteroschina\build\barcode_scan\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-15:19
+MERGED from [:image_picker] H:\flutterProject\flutteroschina\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-20:19
+MERGED from [:image_picker] H:\flutterProject\flutteroschina\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-20:19
+MERGED from [:flutter_webview_plugin] H:\flutterProject\flutteroschina\build\flutter_webview_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-19:19
+MERGED from [:flutter_webview_plugin] H:\flutterProject\flutteroschina\build\flutter_webview_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-19:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\324b3280be44dee6320283f1c17a2ae6\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\324b3280be44dee6320283f1c17a2ae6\AndroidManifest.xml:22:5-20
+MERGED from [me.dm7.barcodescanner:zxing:1.9.13] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\zxing-1.9.13.aar\b832746810db923deec9f774e0b1e92d\AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:zxing:1.9.13] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\zxing-1.9.13.aar\b832746810db923deec9f774e0b1e92d\AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9.13] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jetified-core-1.9.13.aar\454b79eeae70d2c3fc83a9b8cfff07c0\AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9.13] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jetified-core-1.9.13.aar\454b79eeae70d2c3fc83a9b8cfff07c0\AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\f5988b22ed7e6aaaad800bd359729a1c\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\f5988b22ed7e6aaaad800bd359729a1c\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\2c315b31dde9d68d4545825efc77d1bb\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\2c315b31dde9d68d4545825efc77d1bb\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\f5988b22ed7e6aaaad800bd359729a1c\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from H:\flutterProject\flutteroschina\android\app\src\main\AndroidManifest.xml:11:9-43
+	android:icon
+		ADDED from H:\flutterProject\flutteroschina\android\app\src\main\AndroidManifest.xml:12:9-43
+	android:name
+		ADDED from H:\flutterProject\flutteroschina\android\app\src\main\AndroidManifest.xml:10:9-57
+activity#com.dn.flutter_osc_client.MainActivity
+ADDED from H:\flutterProject\flutteroschina\android\app\src\main\AndroidManifest.xml:13:9-31:20
+	android:launchMode
+		ADDED from H:\flutterProject\flutteroschina\android\app\src\main\AndroidManifest.xml:15:13-43
+	android:hardwareAccelerated
+		ADDED from H:\flutterProject\flutteroschina\android\app\src\main\AndroidManifest.xml:18:13-47
+	android:windowSoftInputMode
+		ADDED from H:\flutterProject\flutteroschina\android\app\src\main\AndroidManifest.xml:19:13-55
+	android:configChanges
+		ADDED from H:\flutterProject\flutteroschina\android\app\src\main\AndroidManifest.xml:17:13-144
+	android:theme
+		ADDED from H:\flutterProject\flutteroschina\android\app\src\main\AndroidManifest.xml:16:13-47
+	android:name
+		ADDED from H:\flutterProject\flutteroschina\android\app\src\main\AndroidManifest.xml:14:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from H:\flutterProject\flutteroschina\android\app\src\main\AndroidManifest.xml:24:13-26:40
+	android:value
+		ADDED from H:\flutterProject\flutteroschina\android\app\src\main\AndroidManifest.xml:26:17-37
+	android:name
+		ADDED from H:\flutterProject\flutteroschina\android\app\src\main\AndroidManifest.xml:25:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from H:\flutterProject\flutteroschina\android\app\src\main\AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from H:\flutterProject\flutteroschina\android\app\src\main\AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from H:\flutterProject\flutteroschina\android\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from H:\flutterProject\flutteroschina\android\app\src\main\AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from H:\flutterProject\flutteroschina\android\app\src\main\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from H:\flutterProject\flutteroschina\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from H:\flutterProject\flutteroschina\android\app\src\main\AndroidManifest.xml
+INJECTED from H:\flutterProject\flutteroschina\android\app\src\main\AndroidManifest.xml
+MERGED from [:vibration] H:\flutterProject\flutteroschina\build\vibration\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:vibration] H:\flutterProject\flutteroschina\build\vibration\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] H:\flutterProject\flutteroschina\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] H:\flutterProject\flutteroschina\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:barcode_scan] H:\flutterProject\flutteroschina\build\barcode_scan\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:barcode_scan] H:\flutterProject\flutteroschina\build\barcode_scan\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:image_picker] H:\flutterProject\flutteroschina\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] H:\flutterProject\flutteroschina\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_webview_plugin] H:\flutterProject\flutteroschina\build\flutter_webview_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-44
+MERGED from [:flutter_webview_plugin] H:\flutterProject\flutteroschina\build\flutter_webview_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-44
+MERGED from [:sensors] H:\flutterProject\flutteroschina\build\sensors\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:sensors] H:\flutterProject\flutteroschina\build\sensors\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\324b3280be44dee6320283f1c17a2ae6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\324b3280be44dee6320283f1c17a2ae6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\2b2c119d23f9e75766b735f732e7e639\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\2b2c119d23f9e75766b735f732e7e639\AndroidManifest.xml:20:5-44
+MERGED from [me.dm7.barcodescanner:zxing:1.9.13] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\zxing-1.9.13.aar\b832746810db923deec9f774e0b1e92d\AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:zxing:1.9.13] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\zxing-1.9.13.aar\b832746810db923deec9f774e0b1e92d\AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.9.13] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jetified-core-1.9.13.aar\454b79eeae70d2c3fc83a9b8cfff07c0\AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.9.13] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jetified-core-1.9.13.aar\454b79eeae70d2c3fc83a9b8cfff07c0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\83b0e37d469648ef4d6512122c63ad21\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\83b0e37d469648ef4d6512122c63ad21\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\b80f5636f7192e2c5f295906a6f62119\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\b80f5636f7192e2c5f295906a6f62119\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\f31d1ac3d6fc7ac42070d113e9755543\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\f31d1ac3d6fc7ac42070d113e9755543\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\88c83f36222476a36aeb4a621f2a2ea7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\88c83f36222476a36aeb4a621f2a2ea7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\96138f913c6dd03a2d44579751f6d7fa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\96138f913c6dd03a2d44579751f6d7fa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\b96ae4f629ec5f6a91c6dedbdc001f7d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\b96ae4f629ec5f6a91c6dedbdc001f7d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\6a1ef18d595f104c0a9f62c2715eb297\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\6a1ef18d595f104c0a9f62c2715eb297\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\505264ed719583fe1382c1e63ac6d334\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\505264ed719583fe1382c1e63ac6d334\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\fbbd60f77058c525d3eb26800eb0c3a6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\fbbd60f77058c525d3eb26800eb0c3a6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\d7c5701c7e4d42f6d1925c694aa72abf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\d7c5701c7e4d42f6d1925c694aa72abf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\900c27e858ca0fe1f2c5c202979c078b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\900c27e858ca0fe1f2c5c202979c078b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\084d760dff69f55aafa850bd1abc0f38\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\084d760dff69f55aafa850bd1abc0f38\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\423475fc60227a7c5a76f512dcf54402\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\423475fc60227a7c5a76f512dcf54402\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\e1a70e58a807c7cc69c0803a3527bc59\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\e1a70e58a807c7cc69c0803a3527bc59\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\cc7f25fbb41c589fcf877e63e1d5a85f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\cc7f25fbb41c589fcf877e63e1d5a85f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\67f3580f8793955a82783500ac1acc84\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\67f3580f8793955a82783500ac1acc84\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\5d4299662e2f19c996a1513a344eea8a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\5d4299662e2f19c996a1513a344eea8a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\ee889287076465123defcc2f9c355f53\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\ee889287076465123defcc2f9c355f53\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\f5988b22ed7e6aaaad800bd359729a1c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\f5988b22ed7e6aaaad800bd359729a1c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\2c315b31dde9d68d4545825efc77d1bb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\2c315b31dde9d68d4545825efc77d1bb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\dc4a6e8ec3aa2f08cffbd96842f204b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\dc4a6e8ec3aa2f08cffbd96842f204b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\b4b5db7a88745e46a5b999d4c7c012c8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\b4b5db7a88745e46a5b999d4c7c012c8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\c29c89e45ef6e7a9e991a3c3776ca845\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\c29c89e45ef6e7a9e991a3c3776ca845\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\1481c5268e404b41c7347422e943c4f7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\1481c5268e404b41c7347422e943c4f7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\16f7cd7b5720521e422fcaaf342dfc16\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\16f7cd7b5720521e422fcaaf342dfc16\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\6e2551170cb3c8feb7471f75ae72eaba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\6e2551170cb3c8feb7471f75ae72eaba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\c773256db9874443cda5b8e379dcb4aa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\c773256db9874443cda5b8e379dcb4aa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\c7864afb71e2570b67cdff5eb8c2e6f1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\c7864afb71e2570b67cdff5eb8c2e6f1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\7d43cf331a95e83fd40b6d28c6f069ae\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\7d43cf331a95e83fd40b6d28c6f069ae\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\9ffbbec13f8db6f5b2a3848c48fe1762\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\9ffbbec13f8db6f5b2a3848c48fe1762\AndroidManifest.xml:20:5-44
+INJECTED from H:\flutterProject\flutteroschina\android\app\src\debug\AndroidManifest.xml
+INJECTED from H:\flutterProject\flutteroschina\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from H:\flutterProject\flutteroschina\android\app\src\main\AndroidManifest.xml
+		INJECTED from H:\flutterProject\flutteroschina\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from H:\flutterProject\flutteroschina\android\app\src\main\AndroidManifest.xml
+		INJECTED from H:\flutterProject\flutteroschina\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from H:\flutterProject\flutteroschina\android\app\src\debug\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from H:\flutterProject\flutteroschina\android\app\src\debug\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from [:vibration] H:\flutterProject\flutteroschina\build\vibration\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from [:vibration] H:\flutterProject\flutteroschina\build\vibration\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-63
+uses-permission#android.permission.CAMERA
+ADDED from [:barcode_scan] H:\flutterProject\flutteroschina\build\barcode_scan\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from [:barcode_scan] H:\flutterProject\flutteroschina\build\barcode_scan\intermediates\library_manifest\debug\AndroidManifest.xml:11:22-62
+activity#com.apptreesoftware.barcodescan.BarcodeScannerActivity
+ADDED from [:barcode_scan] H:\flutterProject\flutteroschina\build\barcode_scan\intermediates\library_manifest\debug\AndroidManifest.xml:14:9-91
+	android:name
+		ADDED from [:barcode_scan] H:\flutterProject\flutteroschina\build\barcode_scan\intermediates\library_manifest\debug\AndroidManifest.xml:14:19-88
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:image_picker] H:\flutterProject\flutteroschina\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from [:image_picker] H:\flutterProject\flutteroschina\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:image_picker] H:\flutterProject\flutteroschina\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from [:image_picker] H:\flutterProject\flutteroschina\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-78
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] H:\flutterProject\flutteroschina\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:9-19:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] H:\flutterProject\flutteroschina\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-47
+	android:authorities
+		ADDED from [:image_picker] H:\flutterProject\flutteroschina\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-74
+	android:exported
+		ADDED from [:image_picker] H:\flutterProject\flutteroschina\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:image_picker] H:\flutterProject\flutteroschina\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] H:\flutterProject\flutteroschina\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-18:75
+	android:resource
+		ADDED from [:image_picker] H:\flutterProject\flutteroschina\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-72
+	android:name
+		ADDED from [:image_picker] H:\flutterProject\flutteroschina\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-67
+provider#androidx.core.content.FileProvider
+ADDED from [:flutter_webview_plugin] H:\flutterProject\flutteroschina\build\flutter_webview_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:9:9-18:20
+	android:grantUriPermissions
+		ADDED from [:flutter_webview_plugin] H:\flutterProject\flutteroschina\build\flutter_webview_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-47
+	android:authorities
+		ADDED from [:flutter_webview_plugin] H:\flutterProject\flutteroschina\build\flutter_webview_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-64
+	android:exported
+		ADDED from [:flutter_webview_plugin] H:\flutterProject\flutteroschina\build\flutter_webview_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-37
+	tools:replace
+		ADDED from [:flutter_webview_plugin] H:\flutterProject\flutteroschina\build\flutter_webview_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-48
+	android:name
+		ADDED from [:flutter_webview_plugin] H:\flutterProject\flutteroschina\build\flutter_webview_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-62

@@ -1,0 +1,23 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\flutter\.pub-cache\hosted\pub.dartlang.org\vibration-1.0.2\android\src\main\AndroidManifest.xml:1:1-7:12
+INJECTED from G:\flutter\.pub-cache\hosted\pub.dartlang.org\vibration-1.0.2\android\src\main\AndroidManifest.xml:1:1-7:12
+INJECTED from G:\flutter\.pub-cache\hosted\pub.dartlang.org\vibration-1.0.2\android\src\main\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from G:\flutter\.pub-cache\hosted\pub.dartlang.org\vibration-1.0.2\android\src\main\AndroidManifest.xml:2:5-41
+		INJECTED from G:\flutter\.pub-cache\hosted\pub.dartlang.org\vibration-1.0.2\android\src\main\AndroidManifest.xml
+		INJECTED from G:\flutter\.pub-cache\hosted\pub.dartlang.org\vibration-1.0.2\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\flutter\.pub-cache\hosted\pub.dartlang.org\vibration-1.0.2\android\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from G:\flutter\.pub-cache\hosted\pub.dartlang.org\vibration-1.0.2\android\src\main\AndroidManifest.xml:3:5-4:38
+INJECTED from G:\flutter\.pub-cache\hosted\pub.dartlang.org\vibration-1.0.2\android\src\main\AndroidManifest.xml:3:5-4:38
+INJECTED from G:\flutter\.pub-cache\hosted\pub.dartlang.org\vibration-1.0.2\android\src\main\AndroidManifest.xml:3:5-4:38
+	android:minSdkVersion
+		ADDED from G:\flutter\.pub-cache\hosted\pub.dartlang.org\vibration-1.0.2\android\src\main\AndroidManifest.xml:4:9-35
+		INJECTED from G:\flutter\.pub-cache\hosted\pub.dartlang.org\vibration-1.0.2\android\src\main\AndroidManifest.xml
+		INJECTED from G:\flutter\.pub-cache\hosted\pub.dartlang.org\vibration-1.0.2\android\src\main\AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from G:\flutter\.pub-cache\hosted\pub.dartlang.org\vibration-1.0.2\android\src\main\AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from G:\flutter\.pub-cache\hosted\pub.dartlang.org\vibration-1.0.2\android\src\main\AndroidManifest.xml:6:22-63
